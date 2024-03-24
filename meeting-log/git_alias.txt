@@ -1,0 +1,11 @@
+// 커밋
+git config alias.ci "commit -m"
+
+// 깃 로그 보기
+git config alias.history "log --pretty=oneline"
+
+// 깃 브렌치
+git config alias.br "branch"
+
+// 깃 브렌치 이동 (체크아웃)
+git config alias.co "checkout"
